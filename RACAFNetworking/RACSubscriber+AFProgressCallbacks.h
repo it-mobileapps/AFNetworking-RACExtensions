@@ -8,7 +8,7 @@
 
 #ifdef RAFN_EXPERIMENTAL_PROGRESS_SUPPORT
 
-#import <ReactiveCocoa/ReactiveCocoa.h>
+#import <ReactiveObjC/ReactiveObjC.h>
 
 @interface RACSubscriber (AFProgressCallbacks)
 

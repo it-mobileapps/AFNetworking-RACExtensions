@@ -7,7 +7,7 @@
 //
 
 #import <AFNetworking/AFHTTPRequestOperationManager.h>
-#import <ReactiveCocoa/ReactiveCocoa.h>
+#import <ReactiveObjC/ReactiveObjC.h>
 
 /// User info key for accessing the AFHTTPRequestOperation on which the error occured.
 extern NSString *const RAFNetworkingOperationErrorKey;

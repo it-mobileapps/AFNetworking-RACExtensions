@@ -7,7 +7,7 @@
 //
 
 #import <AFNetworking/AFHTTPRequestOperation.h>
-#import <ReactiveCocoa/ReactiveCocoa.h>
+#import <ReactiveObjC/ReactiveObjC.h>
 
 @interface AFHTTPRequestOperation (RACSupport)
 

@@ -10,7 +10,7 @@
 
 #ifdef __OBJC__
 	#import <Foundation/Foundation.h>
-	#import <ReactiveCocoa/ReactiveCocoa.h>
+	#import <ReactiveObjC/ReactiveObjC.h>
     #import <SystemConfiguration/SystemConfiguration.h>
 
     #if __IPHONE_OS_VERSION_MIN_REQUIRED
